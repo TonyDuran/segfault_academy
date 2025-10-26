@@ -39,3 +39,12 @@
 
 # debug information files
 *.dwo
+
+# Build artifacts
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/Testing/
+/Makefile
+compile_commands.json
+
